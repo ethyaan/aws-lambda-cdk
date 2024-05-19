@@ -1,0 +1,11 @@
+{
+    "name": "openai-gpt-call",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "openai": "^4.47.1"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
